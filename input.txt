@@ -1,0 +1,3 @@
+Hello World
+This JAVA app uses JAVA for Apache Spark
+This JAVA app counts words with Apache Spark
